@@ -21,7 +21,7 @@ async def upgrade(bot,update):
 	Price INR 198 /🌎 2.5$  per Month
 	
 	
-	Pay Using UPI ID ```nashvara@kotak```
+	Pay Using UPI ID ``` ```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin @Critical_cobra"""
@@ -51,7 +51,7 @@ async def upgradecm(bot,message):
 	Price INR 198 /🌎 2.5$  per Month
 	
 	
-	Pay Using Upi I'd ```nashvara@kotak```
+	Pay Using Upi I'd ``` ```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin @Critical_cobra"""
